@@ -15,7 +15,6 @@ plugins:
 paginate: 6
 paginate_path: "/blog/page/:num"
 
-
 #-------------------------------
 # Collections
 collections:
@@ -54,3 +53,4 @@ defaults:
 sass:
   sass_dir: _sass
   style: compressed
+

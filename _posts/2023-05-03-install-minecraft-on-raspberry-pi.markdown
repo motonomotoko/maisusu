@@ -22,7 +22,7 @@ tags:   [Raspberry Pi, プログラミング]
 
 ***
 
-## Raspberry PiにMinecraft Pi Editionをインストールする
+## Raspberry PiでMinecraft Pi Editionをプレイする
 
 Minecraft Pi Editionとは、Raspberry Pi用に開発されたマイクラです。
 
@@ -34,7 +34,7 @@ Minecraft Pi Editionとは、Raspberry Pi用に開発されたマイクラです
 
 Pi-Appsはアプリケーションのインストールを簡単にしてくれる無料ツールです。Pi-Appsでサポートされているアプリケーションであれば、ワンクリックで目的のアプリケーションをインストールしてくれます。
 
-1.[<span style="color:#1589FF">Pi-Apps公式Webサイトのインストールページ</span>](https://pi-apps.io/install.html)を開きます。
+1.[<span style="color:#1589FF">Pi-Apps公式Webサイトのインストールページ</span>](https://pi-apps.io/install)を開きます。
 
 2.Raspberry Piでターミナルを開き、上記で開いたページの一番上のコマンドをコピペします。
 {% highlight css %}
@@ -73,9 +73,9 @@ wget -qO- https://raw.githubusercontent.com/Botspot/pi-apps/master/install | bas
 
 我が家では以下の値を変更してから遊んでいます。
 
-* のチェックを外す（多少処理が軽くなることを期待して）
+* Animated Waterのチェックを外す（処理が軽くなることを期待して）
 * Expand Creative Mode Inventoryのチェックをつける（クリエイティブモードで使えるブロックを増やします）
-* Remove Creative Mode Restrictionsのチェックをつける()
+* Remove Creative Mode Restrictionsのチェックをつける（クリエイティブモードでクラフトができるようになります）
 
 3.設定が終わるとゲーム開始画面が現れます。**Start Game**を選択し、**Create new**を選択してワールドを作成します。ワールドの名前、クリエイティブ／サバイバル、シード値（入れなくて構いません）を設定後、ゲームが始まります。
 
@@ -98,11 +98,11 @@ Raspberry Pi上でJava版を遊ぶことも可能です。こちらもPi-Appsか
 
 ### 手順１：Pi-Appsをインストールする
 
-まだインストールされていない場合、手順は前半Pi Editionをインストールする場合の手順１をご参照ください。
+まだインストールされていない場合は、上記の[<span style="color:#1589FF">Pi-Appsをインストールする</span>](https://www.maisusu.com/blog/install-minecraft-on-raspberry-pi#%E6%89%8B%E9%A0%86%EF%BC%91pi-apps%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B)をご参照ください。
 
 <br>
 
-### 手順２：Pi AppsからMinecraft Java GDLauncherをインストールする
+### 手順２：Pi-AppsからMinecraft Java GDLauncherをインストールする
 
 1.Main Menuまたはデスクトップから**Pi-Apps**を開きます。
 

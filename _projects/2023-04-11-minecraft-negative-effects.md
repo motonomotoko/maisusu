@@ -54,7 +54,7 @@ image: '/images/akueikyo.jpg'
 
 子どもが怒り出した時は、イライラをグッと抑え、子どもの嫌な気持ちに寄り添い、言語化してあげることで、子どもが自分の感情を理解し、怒りをうまくコントロールできる力につながるそうです。
 
-[<span style="color:#1589FF">子どものイライラを和らげる「アンガーマネージメント」って？ - Domani</span>](domani.shogakukan.co.jp)
+[<span style="color:#1589FF">子どものイライラを和らげる「アンガーマネージメント」って？ - Domani</span>](https://domani.shogakukan.co.jp/473063)
 <br>
 <br>
 

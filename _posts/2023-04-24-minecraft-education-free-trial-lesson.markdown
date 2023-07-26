@@ -8,13 +8,21 @@ video_embed:
 tags:   [教育版マインクラフト, プログラミング]
 ---
 
+教育版マインクラフトは公式から無料体験版を利用することができます。
+
+この記事では教育版マインクラフトの無料体験版の始め方と、無料体験できるレッスンの内容をまとめました。
+
+ー[<span style="color:#1589FF">教育版マインクラフトとは？違いや魅力を解説</span>
+](https://www.maisusu.com/column/what-is-minecraft-education)
+
+
 <div style="padding: 10px; margin-bottom: 10px; border: 1px solid #181818; background-color: var(--background-alt-color); border-radius: 5px;" markdown="1">
 <h4>目次</h4>
 * table
 {:toc}
 </div>
 
-<br>
+***
 
 ## 教育版マインクラフトとは
 
@@ -96,8 +104,8 @@ tags:   [教育版マインクラフト, プログラミング]
 
 ## 教育版マインクラフトの無料で遊べるレッスン４種類
 
-無料で体験できる４つのレッスンそれぞれをやってみました。
-
+現時点で無料体験できる４つのレッスンそれぞれをやってみました。
+（無料体験できる４つレッスンは定期的に変化します。）
 
 ### Hour of Code 2019 (AI)
 
@@ -191,4 +199,11 @@ tags:   [教育版マインクラフト, プログラミング]
 教育版マインクラフトに興味を持たれていたり、特にマイクラを使ったプログラミング学習を検討されている場合に、この無料体験版レッスンはお勧めです。
 
 インストールも難しくありませんので、ぜひお気軽にお試しください！
+
+***
+
+**関連記事**
+
+[<span style="color:#1589FF">教育版マインクラフトとは？違いや魅力を解説</span>
+](https://www.maisusu.com/column/what-is-minecraft-education)
 

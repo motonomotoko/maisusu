@@ -13,7 +13,7 @@ image: '/images/kyoikuban_chigai.jpg'
 
 この記事では、そんな教育版マインクラフトの特徴や魅力についてまとめます。
 
-ー[<span style="color:#1589FF">教育版マインクラフト無料体験版で遊んでみる</span>](https://www.maisusu.com/blog/minecraft-education-free-trial-lesson)
+ー[<span style="color:#1589FF">教育版マインクラフト無料体験版で遊んでみる</span>](https://www.maisusu.com/blog/minecraft-edu-free-trial-lesson)
 
 <div style="padding: 10px; margin-bottom: 10px; border: 1px solid #181818; background-color: var(--background-alt-color); border-radius: 5px;" markdown="1">
 <h4>目次</h4>
@@ -278,4 +278,4 @@ image: '/images/kyoikuban_chigai.jpg'
 
 **関連記事**
 
-[<span style="color:#1589FF">教育版マインクラフト無料体験版で遊んでみる</span>](https://www.maisusu.com/blog/minecraft-education-free-trial-lesson)
+[<span style="color:#1589FF">教育版マインクラフト無料体験版で遊んでみる</span>](https://www.maisusu.com/blog/minecraft-edu-free-trial-lesson)

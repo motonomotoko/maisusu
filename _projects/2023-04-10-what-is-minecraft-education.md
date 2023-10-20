@@ -279,3 +279,5 @@ image: '/images/kyoikuban_chigai.jpg'
 **関連記事**
 
 [<span style="color:#1589FF">教育版マインクラフト無料体験版で遊んでみる</span>](https://www.maisusu.com/blog/minecraft-edu-free-trial-lesson)
+
+[<span style="color:#1589FF">教育版マインクラフトを個人購入してみました</span>](https://www.maisusu.com/blog/purchase-mincraft-education-license)

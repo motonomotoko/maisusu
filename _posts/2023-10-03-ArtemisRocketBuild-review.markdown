@@ -26,10 +26,10 @@ NASAと共同で制作されたこのワールドでは、月への有人宇宙�
 ## アルテミス:ロケットビルドの概要
 
 <div style="padding: 10px; margin-bottom: 10px; border: 5px double #333333; border-radius: 10px;">
-<p><b>要点まとめ！</b></p>
-<p>テーマ：有人月面着陸計画『アルテミス』をテーマにした世界</p>
-<p>提供元：Minecraft EducationとNASAの共同開発</p>
-<p>学習目的：アルテミス計画、ニュートン力学、ロケット発射の仕組みなど</p>
+<p><b>要点まとめ</b></p>
+<p><strong>○ テーマ：有人月面着陸計画『アルテミス』をテーマにした世界</strong></p>
+<p><strong>○ 提供元：Minecraft EducationとNASAの共同開発</strong></p>
+<p><strong>○ 学習目的：アルテミス計画、ニュートン力学、ロケット発射の仕組みなど</strong></p>
 </div>
 
 <br>
@@ -76,11 +76,11 @@ NASAが進めている有人月面着陸計画『アルテミス』がテーマ�
 
 <div style="padding: 10px; margin-bottom: 10px; border: 5px double #333333; border-radius: 10px;">
 <p><b>ワールドの学習目的</b></p>
-<p>●アルテミス計画とその意義について</p>
-<p>●ニュートン力学</p>
-<p>●ロケット発射に必要な推進力と燃料について</p>
-<p>●アルテミスのミッション（過去、現在、未来）について</p>
-<p>●ロケットの発射と設計、塗装、打ち上げを行う</p>
+<p><strong>○ アルテミス計画とその意義について</strong></p>
+<p><strong>○ ニュートン力学</strong></p>
+<p><strong>○ ロケット発射に必要な推進力と燃料について</strong></p>
+<p><strong>○ アルテミスのミッション（過去、現在、未来）について</strong></p>
+<p><strong>○ ロケットの発射と設計、塗装、打ち上げを行う</strong></p>
 </div>
 
 <br>
@@ -170,7 +170,7 @@ NASAの施設を探検しているような、ワクワクするワールドで�
 
 ***
 
-## 学びのためのサポート資料
+## サポート資料
 
 このワールド用の授業サポート資料は[<span style="color:#1589FF">こちら</span>](https://education.minecraft.net/ja-jp/lessons/artemis-rocket-build)から確認できます。
 

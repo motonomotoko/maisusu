@@ -261,18 +261,6 @@ MakeCode上のツールボックスや、予測入力がコマンドや変数の
 
 ***
 
-## サポート資料
-
-**[<span style="color:#1589FF">Python 101 with MakeCode - Lesson 1
-</span>](https://education.minecraft.net/ja-jp/lessons/python-101-lesson-1)**
-指導者用のガイド資料、授業スライド、追加アクティビティへのリンクなどが見つかります。
-
-**[<span style="color:#1589FF">Python 101 with MakeCode - Lesson  2
-</span>](https://education.minecraft.net/ja-jp/lessons/python-101-lesson-2)**
-指導者用のガイド資料、授業スライド、追加アクティビティへのリンクなどが見つかります。
-
-***
-
 ## 注意点など
 
 **日本語対応：デフォルトは英語。イマーシブリーダーを使えば翻訳してくれます。**
@@ -291,9 +279,12 @@ Python 101 - Makecodeのレッスン1とレッスン2についてまとめまし
 
 ***
 
-参考サイト
-* [教育版マインクラフト公式サイト/Python 101 with MakeCode - Lesson 1](https://education.minecraft.net/ja-jp/lessons/python-101-lesson-1)
-* [教育版マインクラフト公式サイト/Python 101 with MakeCode - Lesson 2](https://education.minecraft.net/ja-jp/lessons/python-101-lesson-2)
+## サポート資料
 
+以下のサイトで指導者用のガイド資料、授業スライド、追加アクティビティへのリンクなどが見つかります。
 
+**[<span style="color:#1589FF">Python 101 with MakeCode - Lesson 1
+</span>](https://education.minecraft.net/ja-jp/lessons/python-101-lesson-1)**
 
+**[<span style="color:#1589FF">Python 101 with MakeCode - Lesson  2
+</span>](https://education.minecraft.net/ja-jp/lessons/python-101-lesson-2)**

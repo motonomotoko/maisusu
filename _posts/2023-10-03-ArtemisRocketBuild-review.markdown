@@ -6,7 +6,7 @@ description: 教育版マインクラフトのアルテミス：ロケットビ�
 date:   2023-10-03 15:00:00 +0300
 image:  '/images/b-06-00.jpg'
 video_embed:
-tags:   [教育版マインクラフト, 科学]
+tags:   [minecraftedu, science]
 ---
 
 教育版マインクラフトのワールドテンプレート、アルテミス:ロケットビルド (Artemis: Rocket Build)の概要とプレイ感想をまとめました。

@@ -5,7 +5,7 @@ description: 教育版マインクラフトの無料でできる体験版レッ�
 date:   2023-04-24 15:00:00 +0300
 image:  '/images/b-01-title.jpg'
 video_embed: 
-tags:   [教育版マインクラフト, プログラミング]
+tags:   [minecraftEdu, programming]
 ---
 
 教育版マインクラフトは公式から無料体験版を利用することができます。

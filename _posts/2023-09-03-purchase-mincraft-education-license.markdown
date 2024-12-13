@@ -5,7 +5,7 @@ description: 個人で教育版マインクラフトを購入した際の手順�
 date:   2023-09-03 15:00:00 +0300
 image:  '/images/b-05-14.jpg'
 video_embed:
-tags:   [教育版マインクラフト]
+tags:   [minecraftedu]
 ---
 
 子どもたちに大人気のマインクラフト、通称マイクラ。

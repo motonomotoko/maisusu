@@ -5,7 +5,7 @@ description: Raspberry Piにマインクラフトをインストールする方�
 date:   2023-05-03 15:00:00 +0300
 image:  '/images/b-02-00.jpg'
 video_embed:
-tags:   [RaspberryPi, プログラミング]
+tags:   [raspberrypi, programming]
 ---
 
 世界でも大人気のマイクラ、Raspberry Piでも遊ぶことができます。

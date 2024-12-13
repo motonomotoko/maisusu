@@ -5,7 +5,7 @@ description: ラズパイで使えるマインクラフト Pi Rebornを使い、
 date:   2023-07-03 15:00:00 +0300
 image:  '/images/b-04-00.jpg'
 video_embed:
-tags:   [初心者向け, プログラミング, RaspberryPi]
+tags:   [beginners, programming, raspberrypi]
 ---
 
 プログラミングや電子工作の学習用にも人気の小型コンピュータ、ラズベリーパイ。

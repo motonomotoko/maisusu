@@ -6,7 +6,7 @@ description: 教育版マインクラフトのPython 101 - Makecodeの概要と�
 date:   2024-07-17 15:00:00 +0300
 image:  '/images/b-10-00.jpg'
 video_embed:
-tags:   [教育版マインクラフト, プログラミング, Python]
+tags:   [minecraftedu, programming, python]
 ---
 
 教育版マインクラフトでのPython学習、Python 101 - Makecodeの続きです。

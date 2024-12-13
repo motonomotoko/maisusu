@@ -5,7 +5,7 @@ description: 子どもと一緒にマインクラフトの世界で出てくる�
 date:   2023-10-17 15:00:00 +0300
 image:  '/images/b-07-00.jpg'
 video_embed:
-tags:   [科学, アクティビティ]
+tags:   [science, activity]
 ---
 
 『ママ、これが本物のダイヤモンド？』と、興奮気味に尋ねる息子。
